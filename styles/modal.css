@@ -1,5 +1,9 @@
 /* Modal cobir toda a pagina */
 
+#modal.hide{
+    display: none;
+}
+
 #modal{
     background-color: rgba(14, 10, 20, 0.959);
 
