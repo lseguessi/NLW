@@ -88,8 +88,6 @@ function handleSelectedItem(event){
         selectedItems.push(itemId)
     }
 
-    console.log(selectedItems)
-
     //Atualizar o campo escondido com os dados selecionados.
     collectedItems.value = selectedItems
 }
